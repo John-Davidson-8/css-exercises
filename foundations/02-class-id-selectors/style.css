@@ -1,0 +1,17 @@
+.top-bottom {
+  color: black;
+  background-color: salmon;
+  font-weight: 400;
+  font-family: "Times New Roman", Times, serif;
+}
+#underneath {
+  font-size: 2rem;
+  color: blue;
+}
+.cool {
+  font-size: 1.5rem;
+}
+#bolder {
+  font-weight: bold;
+  background-color: greenyellow;
+}
