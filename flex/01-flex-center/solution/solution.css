@@ -1,4 +1,7 @@
 .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background: dodgerblue;
   border: 4px solid midnightblue;
   width: 400px;
@@ -21,9 +24,3 @@ In your solution you probably put it right inside the existing `.container`,
 which _is_ the best practice. 
 
 We separated it out here to make it extra clear what has changed. */
-
-.container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
